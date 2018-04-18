@@ -1,0 +1,2 @@
+new content
+This is a git repository and this is the git class
